@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
         features = "Features",
         glue = {"stepDefinitions"},
         tags = "@SimpleAlert",
-        //tags = "@Activities5",
+        //tags = "@Activity5",
         //plugin = {"pretty"},
         //plugin = {"html: test-reports"},
         plugin = {"json: test-reports/json-report.json"},
